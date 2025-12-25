@@ -144,7 +144,7 @@ We're **Bubuchat** – a collective of three passionate developers who believe t
 ### 🎮 App Chat
 [![Repo](https://img.shields.io/badge/Repo-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bubuchat/App_Chat)
 [![Stars](https://img.shields.io/github/stars/bubuchat/App_Chat?style=for-the-badge&logo=github&color=yellow)](https://github.com/bubuchat/App_Chat)
-[![Forks](https://img.shields.io/github/forks/bubuchat/App_Chat?style=for-the-badge&logo=github&color=blue)](https://github.com/bubuchat/App_Chat/fork)
+
 
 **Revolutionary real-time chat application** with innovative features and modern design.
 
