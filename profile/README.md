@@ -70,60 +70,30 @@ We're **Bubuchat** – a collective of three passionate developers who believe t
 
 ---
 
-## 📊 COLLECTIVE STATS
+## 📊 ORGANIZATION STATS
 
 <div align="center">
 
-### 🔥 Combined Activity
+### 🏢 Complete Organization Metrics
 
-<table>
-<tr>
-<td align="center">
-<h4>Skykiller099</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=skykiller099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" alt="Skykiller099's Stats"/>
-</td>
-<td align="center">
-<h4>Foudretbr</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=foudretbr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" alt="Foudretbr's Stats"/>
-</td>
-<td align="center">
-<h4>Jimmxyz</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=Jimmxyz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" alt="Jimmxyz's Stats"/>
-</td>
-</tr>
-</table>
+![Metrics](https://raw.githubusercontent.com/bubuchat/.github/main/metrics-organization.svg)
 
-### 💻 Team Language Distribution
+### 🔥 Annual Activity Calendar
 
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykiller099&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=6" alt="Skykiller099 Languages"/>
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foudretbr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=6" alt="Foudretbr Languages"/>
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmxyz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=6" alt="Jimmxyz Languages"/>
-</td>
-</tr>
-</table>
+![Activity](https://raw.githubusercontent.com/bubuchat/.github/main/metrics-activity.svg)
 
-### 🏆 Achievements
+### 💻 Language Distribution Across All Projects
 
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=skykiller099&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" alt="Skykiller099 Streak"/>
-</td>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=foudretbr&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" alt="Foudretbr Streak"/>
-</td>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Jimmxyz&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" alt="Jimmxyz Streak"/>
-</td>
-</tr>
-</table>
+![Languages](https://raw.githubusercontent.com/bubuchat/.github/main/metrics-languages.svg)
+
+### 👥 Contributors & Community
+
+![Contributors](https://raw.githubusercontent.com/bubuchat/.github/main/metrics-contributors.svg)
+
+### ⚡ Recent Organization Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 </div>
 
@@ -144,7 +114,9 @@ We're **Bubuchat** – a collective of three passionate developers who believe t
 ### 🎮 App Chat
 [![Repo](https://img.shields.io/badge/Repo-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bubuchat/App_Chat)
 [![Stars](https://img.shields.io/github/stars/bubuchat/App_Chat?style=for-the-badge&logo=github&color=yellow)](https://github.com/bubuchat/App_Chat)
-
+[![Forks](https://img.shields.io/github/forks/bubuchat/App_Chat?style=for-the-badge&logo=github&color=blue)](https://github.com/bubuchat/App_Chat/fork)
+[![Issues](https://img.shields.io/github/issues/bubuchat/App_Chat?style=for-the-badge)](https://github.com/bubuchat/App_Chat/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/bubuchat/App_Chat?style=for-the-badge)](https://github.com/bubuchat/App_Chat/commits)
 
 **Revolutionary real-time chat application** with innovative features and modern design.
 
@@ -166,10 +138,12 @@ We're **Bubuchat** – a collective of three passionate developers who believe t
 ```
 
 **Key Features:**
-- ⚡ Real-time messaging
-- 👥 Multi-user support
-- 🔒 Secure authentication
-- 📱 Responsive design
+- ⚡ Real-time messaging with Socket.io
+- 👥 Multi-user support & rooms
+- 🔒 Secure authentication system
+- 📱 Fully responsive design
+- 🎨 Modern UI/UX
+- 💬 Message history & persistence
 
 **[→ Explore Project](https://github.com/bubuchat/App_Chat)** | **[→ View Demo](https://github.com/bubuchat/App_Chat#demo)**
 
@@ -181,21 +155,33 @@ We're **Bubuchat** – a collective of three passionate developers who believe t
 We're constantly working on new and exciting projects. Stay tuned!
 
 **In the Pipeline:**
-- 🤖 AI-powered tools
-- 🎮 Interactive games
-- 🛠️ Developer utilities
-- 📊 Data visualization apps
+- 🤖 AI-powered chatbot tools
+- 🎮 Interactive web games
+- 🛠️ Developer productivity utilities
+- 📊 Real-time data visualization apps
+- 🔐 Security & encryption tools
 
 **Want to collaborate?**  
 Check our [contribution guidelines](#-how-to-contribute) or reach out on [Discord](https://discord.gg/bubuchat)!
 
 ---
 
-### 📈 Organization Activity
+### 📈 Quick Organization Stats
 
-![Organization Activity](https://img.shields.io/badge/Active_Projects-1+-brightgreen?style=for-the-badge)
-![Total_Commits](https://img.shields.io/badge/Total_Commits-500+-blue?style=for-the-badge)
-![Contributors](https://img.shields.io/badge/Core_Members-3-orange?style=for-the-badge)
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/orgs/bubuchat&style=for-the-badge&logo=github)
+![Members](https://img.shields.io/badge/Core_Members-3-orange?style=for-the-badge&logo=github)
+![Total Stars](https://img.shields.io/github/stars/bubuchat?style=for-the-badge&logo=github&color=yellow)
+![Total Forks](https://img.shields.io/github/forks/bubuchat/App_Chat?style=for-the-badge&logo=github&color=green)
+
+---
+
+### 🏆 Organization Achievements
+
+- ✅ **1+** Production-ready projects
+- 🌟 Collaborative development workflow
+- 📚 Open-source contributions
+- 🚀 Continuous learning & improvement
+- 💪 Growing developer community
 
 </td>
 </tr>
@@ -321,7 +307,10 @@ We're committed to providing a welcoming and inspiring community for all. Please
 
 ### 🔗 Follow Our Work
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Organization-181717?style=for-the-badge&logo=github)](https://github.com/bubuchat)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-Follow_Organization-181717?style=for-the-badge&logo=github)](https://github.com/bubuchat)
+[![GitHub Skykiller099](https://img.shields.io/github/followers/skykiller099?label=Follow%20Skykiller099&style=for-the-badge&logo=github)](https://github.com/skykiller099)
+[![GitHub Foudretbr](https://img.shields.io/github/followers/foudretbr?label=Follow%20Foudretbr&style=for-the-badge&logo=github)](https://github.com/foudretbr)
+[![GitHub Jimmxyz](https://img.shields.io/github/followers/Jimmxyz?label=Follow%20Jimmxyz&style=for-the-badge&logo=github)](https://github.com/Jimmxyz)
 
 </div>
 
@@ -344,15 +333,6 @@ If you like what we do, consider:
 - 🍴 Forking and contributing
 - 📢 Sharing with your network
 - 💬 Joining our Discord community
-
----
-
-### 📊 Quick Stats
-
-![Active Projects](https://img.shields.io/badge/Active_Projects-1-brightgreen?style=flat-square&logo=github)
-![Contributors](https://img.shields.io/badge/Core_Team-3_Developers-blue?style=flat-square&logo=github)
-![Languages](https://img.shields.io/badge/Languages-8+-orange?style=flat-square&logo=code)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ---
 
