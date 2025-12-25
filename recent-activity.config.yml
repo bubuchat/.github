@@ -1,1 +1,38 @@
-
+settings:
+  username: bubuchat
+  commit_username: github-actions[bot]
+  commit_email: github-actions[bot]@users.noreply.github.com
+  
+  # Activity from organization repos only
+  activity_sources:
+    - organization
+  
+  # Types of activity to track
+  event_types:
+    - issues
+    - pull_requests
+    - commits
+    - releases
+    - stars
+    - forks
+    - comments
+  
+  # Customize messages
+  messages:
+    opened_issue: "❗ Opened issue [{ISSUE_TITLE}]({ISSUE_URL}) in [{REPO}]({REPO_URL})"
+    closed_issue: "✅ Closed issue [{ISSUE_TITLE}]({ISSUE_URL}) in [{REPO}]({REPO_URL})"
+    opened_pr: "🔀 Opened PR [{PR_TITLE}]({PR_URL}) in [{REPO}]({REPO_URL})"
+    merged_pr: "🎉 Merged PR [{PR_TITLE}]({PR_URL}) in [{REPO}]({REPO_URL})"
+    created_repo: "📦 Created new repository [{REPO}]({REPO_URL})"
+    forked_repo: "🍴 Forked [{REPO}]({REPO_URL})"
+    starred_repo: "⭐ Starred [{REPO}]({REPO_URL})"
+    created_release: "🚀 Released [{RELEASE_TAG}]({RELEASE_URL}) in [{REPO}]({REPO_URL})"
+    pushed_commits: "📝 Pushed {COMMIT_COUNT} commit(s) to [{REPO}]({REPO_URL})"
+    created_branch: "🌿 Created branch {BRANCH} in [{REPO}]({REPO_URL})"
+    deleted_branch: "🗑️ Deleted branch {BRANCH} in [{REPO}]({REPO_URL})"
+    
+  # Maximum number of activities to display
+  max_lines: 10
+  
+  # Date format
+  date_format: "MMM DD, YYYY"
