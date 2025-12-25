@@ -18,13 +18,6 @@
 
 We're **Bubuchat** – a collective of three passionate developers who believe the best code is written together. We don't just build projects; we **challenge each other**, **learn relentlessly**, and **push boundaries** while having a blast doing it.
 
-<div align="center">
-
-╔═══════════════════════════════════════════════════════════════╗
-║  🎮 CODE   →   📚 LEARN   →   💪 CHALLENGE   →   🔄 REPEAT   ║
-╚═══════════════════════════════════════════════════════════════╝
-
-<div align="center">
 
 # 🚀 BUBUCHAT
 
@@ -44,14 +37,7 @@ We're **Bubuchat** – a collective of three passionate developers who believe t
 
 We're **Bubuchat** – a collective of three passionate developers who believe the best code is written together. We don't just build projects; we **challenge each other**, **learn relentlessly**, and **push boundaries** while having a blast doing it.
 
-<div align="center">
 
-╔═══════════════════════════════════════════════════════════════╗
-║  🎮 CODE   →   📚 LEARN   →   💪 CHALLENGE   →   🔄 REPEAT   ║
-╚═══════════════════════════════════════════════════════════════╝
-
-
-</div>
 
 ### 🔥 Our Mission
 
