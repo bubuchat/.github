@@ -79,13 +79,16 @@ We're **Bubuchat** – a collective of three passionate developers who believe t
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=skykiller099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Skykiller099's Stats" width="100%"/>
+<h4>Skykiller099</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=skykiller099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" alt="Skykiller099's Stats"/>
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=foudretbr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Foudretbr's Stats" width="100%"/>
+<h4>Foudretbr</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=foudretbr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" alt="Foudretbr's Stats"/>
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jimmxyz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Jimmxyz's Stats" width="100%"/>
+<h4>Jimmxyz</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=Jimmxyz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" alt="Jimmxyz's Stats"/>
 </td>
 </tr>
 </table>
@@ -94,13 +97,13 @@ We're **Bubuchat** – a collective of three passionate developers who believe t
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykiller099&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=6" alt="Skykiller099 Languages"/>
 </td>
-<td align="center" width="33%">
+<td align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foudretbr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=6" alt="Foudretbr Languages"/>
 </td>
-<td align="center" width="33%">
+<td align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmxyz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=6" alt="Jimmxyz Languages"/>
 </td>
 </tr>
